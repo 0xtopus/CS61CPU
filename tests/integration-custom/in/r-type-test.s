@@ -27,7 +27,7 @@ addi t1, x0, 6
 mul a0, t1, t0
 
 add s1, t0, t1
-sub s2, t1, t0
+sub t2, t1, t0
 addi s0, s2, -50
 
 mulh a0, s0, s1

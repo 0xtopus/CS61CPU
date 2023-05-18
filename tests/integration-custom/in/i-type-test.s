@@ -6,7 +6,7 @@ addi s0, t0, 9
 
 andi s1, s0, 7
 
-slli s2, t0, 2
+slli s1, t0, 2
 
 srli t2, t0, 2
 
