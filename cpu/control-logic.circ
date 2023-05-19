@@ -159,7 +159,7 @@
       <a name="width" val="3"/>
     </comp>
     <comp lib="0" loc="(1090,1440)" name="Tunnel">
-      <a name="label" val="MemWEN"/>
+      <a name="label" val="MemWEn"/>
     </comp>
     <comp lib="0" loc="(1090,1890)" name="Tunnel">
       <a name="label" val="ASel"/>
@@ -1009,7 +1009,7 @@
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="0: for I-type"/>
     </comp>
-    <comp lib="5" loc="(444,1515)" name="Text">
+    <comp lib="5" loc="(440,1515)" name="Text">
       <a name="font" val="SansSerif plain 16"/>
       <a name="text" val="Determine Instruction type "/>
     </comp>
